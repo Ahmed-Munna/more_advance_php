@@ -1,0 +1,1 @@
+In this tutorial you will learn php file system functions tutorial in Hindi, Urdu.You can learn how to read and write any new file or folder on server,you will also learn how to copy the file with php,how to rename the file with ph
